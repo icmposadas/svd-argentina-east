@@ -1,2 +1,0 @@
-# svd argentina east
-svd
